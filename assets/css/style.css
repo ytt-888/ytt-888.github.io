@@ -2491,11 +2491,11 @@ E. Responsive
         display: inline-block;
         vertical-align: middle;
         content: " ";
-        height: 10%;
+        height: 100%;
     }
 }
 
-@media (min-width: 120px) {
+@media (min-width: 1200px) {
 }
 
 @media (min-width: 62rem) and (max-width: 74.9375rem) {
