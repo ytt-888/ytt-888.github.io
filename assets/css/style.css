@@ -1116,7 +1116,7 @@ B. Classes
 }
 
 #hero .navbar:after {
-    background-image: url("../../assets/img/bg-skew-navbar.png");
+    /*background-image: url("../../assets/img/bg-skew-navbar.png");   */
     background-repeat: no-repeat;
     background-size: contain;
     background-position: top right;
@@ -1126,7 +1126,7 @@ B. Classes
     left: 0;
     position: absolute;
     pointer-events: none;
-    width: 100%;
+    width: 1щ00%;
     z-index: -1;
     opacity: 0;
     transition: .3s ease;
@@ -1388,7 +1388,7 @@ B. Classes
 .navbar .divider {
     background-color: #000;
     height: auto;
-    width: .2rem;
+    width: 2rem;
     margin-right: 2rem;
     margin-left: 2rem;
     opacity: .05;

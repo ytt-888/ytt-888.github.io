@@ -3670,7 +3670,7 @@ tbody.collapse.show {
   font-size: 1.25rem;
   line-height: 1;
   background: transparent;
-  border: 1px solid transparent;
+  border: 0px solid transparent;
   border-radius: 0.25rem;
 }
 
