@@ -1,7 +1,7 @@
 <?php
 mb_internal_encoding("UTF-8");
 
-$to = 'mailto:donets.ive@gmail.com';
+$to = 'mailto:lucian.moldovan@888-resources.com';
 $subject = 'Message from YTT Site';
 
 $name = "";
